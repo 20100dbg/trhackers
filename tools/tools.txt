@@ -1,0 +1,10 @@
+audacity
+cyberchef
+exiftools
+hxd
+netcat
+notepad++
+ollydbg
+pe bear
+wireshark
+x64dbg

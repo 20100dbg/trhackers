@@ -1,0 +1,15 @@
+ressources
+
+https://github.com/h0mbre/Learning-C
+https://learnxinyminutes.com/
+
+https://linuxjourney.com/
+https://overthewire.org/wargames/bandit/
+
+
+crypto :
+base64
+sha1
+cacher un mdp dans les cookies
+
+épreuves 
